@@ -1,0 +1,10 @@
+windows--> siempre usar la consola GitBash
+macOS--> utilizar la terminal convencional
+
+git --version (para ver la version de tu git)
+
+#Configuracion Inicial
+git config --global user.name 'Nombre' (para crear tu usario)
+git config --global user.email example@gmail.com (logearte con tu email)
+git config --global core.editor "code --wait" (para ver la configuracion desde VSCODE)
+git config --global -e (para ver la configuracion)
